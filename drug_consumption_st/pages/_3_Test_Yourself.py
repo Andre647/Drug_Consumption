@@ -6,7 +6,7 @@ import seaborn as sns
 import streamlit as st
 
 from pages._1_Visualization import df
-from pages._2_Conclusion import target_columns, hot_encode, scaler, df_v, metrics,metrics_completed
+from pages._2_Conclusion import target_columns, hot_encode, scaler, df_v,metrics_completed
 
 st.markdown("# Test Yourself")
 

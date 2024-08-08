@@ -86,8 +86,8 @@ def train_and_evaluate(df_v, df_d, _clf, _clf_un, metrics):
 
     return metrics, models
 
-metrics_completed, models = train_and_evaluate(df_v, df_d, clf, clf_un, metrics)
 
+metrics_completed, models = train_and_evaluate(df_v, df_d, clf, clf_un, metrics)
 
 """## Eval"""
 
