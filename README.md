@@ -18,3 +18,6 @@ Este notebook aborda o processo completo de modelagem, incluindo:
 
 - Python 3.x
 - Bibliotecas: pandas, numpy, scikit-learn, matplotlib, seaborn
+## Conclusão
+
+![image](https://github.com/user-attachments/assets/62fad32f-8e33-4c3d-837f-d58c12b29737)
